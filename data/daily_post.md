@@ -1,11 +1,11 @@
 # Daily Report 2026-03-01
 - Repo: Awesome LLM Apps
-- New today: 3762 | Total: 3762 | Stars: 9,926,435
+- New today: 3915 | Total: 3915 | Stars: 11,171,261
 - Link: https://github.com/lllray/awesome-llm-apps
 
-## Top 5 New
-1. [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) 182,111⭐ — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
-2. [ollama/ollama](https://github.com/ollama/ollama) 163,730⭐ — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm
-3. [huggingface/transformers](https://github.com/huggingface/transformers) 157,146⭐ — 🤗 Transformers: the model-definition framework for state-of-the-art machine lear
-4. [f/awesome-chatgpt-prompts](https://github.com/f/prompts.chat) 149,374⭐ — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
-5. [f/prompts.chat](https://github.com/f/prompts.chat) 149,373⭐ — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
+## Top 5 Trending
+1. [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) +495⭐ — Open-source Agent Operating System
+2. [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) +290⭐ — OpenSandbox is a general-purpose sandbox platform for AI applications, offering 
+3. [block/goose](https://github.com/block/goose) +224⭐ — an open source, extensible AI agent that goes beyond code suggestions - install,
+4. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) +120⭐ — Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, G
+5. [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) +88⭐ — A list of free LLM inference resources accessible via API.
