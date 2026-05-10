@@ -516,6 +516,7 @@
 | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | 8,635 | Vue | PowerPoint-ist（/'pauəpɔintist/）, An online presentation application th |
 | [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) | 8,500 | Python | An Autonomous LLM Agent for Complex Task Solving |
 | [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) | 8,237 | - | Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 |
+| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ---
 
